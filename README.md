@@ -12,6 +12,7 @@ Instructions:
 2. It will ask you to 'Enter Ingredients'
 3. Enter the ingredients (the more you enter the better the results)
 3a. Must enter multiple word ingredient names with an underscore (i.e. red_bell_pepper)
-3b. The ingredients should be separated by a blank space. 
+3b. Each ingredient must be a singular (instead of pickles type pickle, fennel_seeds type fennel_seed, etc) 
+3c. The ingredients should be separated by a blank space. 
 4. Once all the ingredients are added, run the code. 
 5. If you have a complete match it will output the title of the Recipe which you can then search for. If no recipe matched it will print 'You do not have enough ingredients'
